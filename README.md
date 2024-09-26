@@ -34,7 +34,7 @@ You can also try fetching the content of the URL and see the status logged in th
 ## Sample Links
 - Sample Youtube Video: //www.youtube.com/embed/5gpLp-bu3Uo?si=vs7MShYgPQrsKgSt
 - Sample Post: www.digitalocean.com/community/tutorials/how-to-use-the-javascript-fetch-api-to-get-data
-- Also try to search for Wikipedi
+- Also try to search for Wikipedia
 
 
 Also Try Searching on Wikipedia:
