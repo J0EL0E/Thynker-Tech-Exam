@@ -23,19 +23,19 @@ npm install
 Run the Development Server
 To run the app in development mode:
 
-
 npm run dev
 This will start the development server. Open http://localhost:5173 to view the app in your browser.
 
-Usage
+## Usage
 Enter a valid URL into the input field.
 Click the "Load Page" button to display the webpage inside the iframe (if the website allows embedding).
 You can also try fetching the content of the URL and see the status logged in the browser's console.
-Sample Links
+
+## Sample Links
 Sample YouTube Video:
 YouTube Video Embed
 
-Sample Post on Fetch API:
+## Sample Post on Fetch API:
 DigitalOcean Fetch API Tutorial
 
 Also Try Searching on Wikipedia:
