@@ -32,11 +32,10 @@ Click the "Load Page" button to display the webpage inside the iframe (if the we
 You can also try fetching the content of the URL and see the status logged in the browser's console.
 
 ## Sample Links
-Sample YouTube Video:
-YouTube Video Embed
+Sample Youtube Video: //www.youtube.com/embed/5gpLp-bu3Uo?si=vs7MShYgPQrsKgSt
+Sample Post: www.digitalocean.com/community/tutorials/how-to-use-the-javascript-fetch-api-to-get-data
+Also try to search for Wikipedi
 
-## Sample Post on Fetch API:
-DigitalOcean Fetch API Tutorial
 
 Also Try Searching on Wikipedia:
 You can easily search for information by visiting Wikipedia.
