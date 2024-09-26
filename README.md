@@ -17,10 +17,10 @@ This project is a simple web viewer built with React and Vite. It allows users t
 To get started, clone the repository and install the dependencies:
 
 
-git clone https://github.com/your-username/webviewer-app.git
-cd webviewer-app
-npm install
-Run the Development Server
+- git clone https://github.com/your-username/webviewer-app.git
+- cd webviewer-app
+- npm install
+- Run the Development Server
 To run the app in development mode:
 
 npm run dev
